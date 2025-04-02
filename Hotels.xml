@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels>
+    <Hotel>
+        <Name>Westin</Name>
+        <Phone>480-968-8885</Phone>
+        <Phone>800-937-8461</Phone>
+        <Address>
+            <Number>11</Number>
+            <Street>E. 7th St</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+            <NearestAiport>Sky Harbor</NearestAiport>
+        </Address>
+        <Rating>4.1</Rating>
+    </Hotel>
+    <Hotel>
+        <Name>University Inn</Name>
+        <Phone>480-966-7221</Phone>
+        <Address>
+            <Number>902</Number>
+            <Street>S. Mill Ave</Street>
+            <City>Tempe</City>
+            <State>AZ</State>
+            <Zip>85281</Zip>
+            <NearestAirport>Sky Harbor</NearestAirport>
+        </Address>
+        <Rating>4.4</Rating>
+    </Hotel>
+    <Hotel>
+        <Name>Valley Inn</Name>
+        <Phone>602-252-6823</Phone>
+        <Address>
+            <Number>965</Number>
+            <Street>E. Van Buren St</Street>
+            <City>Phoenix</City>
+            <State>AZ</State>
+            <Zip>85006</Zip>
+            <NearestAirport>Sky Harbor</NearestAirport>
+        </Address>
+    </Hotel>
+    <Hotel>
+        <Name>Best Western</Name>
+        <Phone>623-932-3210</Phone>
+        <Address>
+            <Number>55</Number>
+            <Street>N. Litchfield Rd</Street>
+            <City>Goodyear</City>
+            <State>AZ</State>
+            <Zip>85338</Zip>
+            <NearestAirport>Phoenix Goodyear</NearestAirport>
+        </Address>
+        <Rating>3.9</Rating>
+    </Hotel>
+    <Hotel>
+        <Name>Squire Resort</Name>
+        <Phone>928-638-2681</Phone>
+        <Address>
+            <Number>74</Number>
+            <Street>AZ-64</Street>
+            <City>Grand Canyon Village</City>
+            <State>AZ</State>
+            <Zip>86023</Zip>
+        </Address>
+        <Rating>4.2</Rating>
+    </Hotel>
+    <Hotel>
+        <Name>Holiday Inn</Name>
+        <Phone>435-644-3100</Phone>
+        <Address>
+            <Number>217</Number>
+            <Street>S. 100 E</Street>
+            <City>Kanab</City>
+            <State>UT</State>
+            <Zip>84741</Zip>
+        </Address>
+        <Rating>4.3</Rating>
+    </Hotel>
+    <Hotel>
+        <Name>OYO Times Square</Name>
+        <Phone>212-768-3700</Phone>
+        <Address>
+            <Number>157</Number>
+            <Street>W. 47th St</Street>
+            <City>New York</City>
+            <State>NY</State>
+            <Zip>10036</Zip>
+            <NearestAirport>LaGuardia</NearestAirport>
+        </Address>
+    </Hotel>
+    <Hotel>
+        <Name>The Venetian</Name>
+        <Phone>702-414-1000</Phone>
+        <Phone>866-659-9643</Phone>
+        <Phone>866-725-2990</Phone>
+        <Address>
+            <Number>3355</Number>
+            <Street>S. Las Vegas Blvd</Street>
+            <City>Las Vegas</City>
+            <State>NV</State>
+            <Zip>89109</Zip>
+            <NearestAirport>Harry Reid</NearestAirport>
+        </Address>
+        <Rating>4.6</Rating>
+    </Hotel>
+    <Hotel>
+        <Name>The Grand Hotel</Name>
+        <Phone>503-968-5757</Phone>
+        <Address>
+            <Number>7265</Number>
+            <Street>SW. Hazel Fern Rd</Street>
+            <City>Tigard</City>
+            <State>OR</State>
+            <Zip>97224</Zip>
+            <NearestAirport>Portland</NearestAirport>
+        </Address>
+        <Rating>4.5</Rating>
+    </Hotel>
+    <Hotel>
+        <Name>Homewood Suites</Name>
+        <Phone>425-391-4000</Phone>
+        <Address>
+            <Number>1484</Number>
+            <Street>Hyla Ave NW.</Street>
+            <City>Issaquah</City>
+            <State>WA</State>
+            <Zip>98027</Zip>
+            <NearestAirport>Seattle-Tacoma</NearestAirport>
+        </Address>
+        <Rating>4.5</Rating>
+    </Hotel>
+</Hotels>
