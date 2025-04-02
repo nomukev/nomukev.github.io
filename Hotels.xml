@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Hotels>
+<Hotels xmlns="https://nomukev.github.io/Hotels.xsd"
+xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="https://nomukev.github.io Hotels.xsd">
     <Hotel>
         <Name>Westin</Name>
         <Phone>480-968-8885</Phone>
