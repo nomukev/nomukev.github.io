@@ -86,6 +86,7 @@ xsi:schemaLocation="https://nomukev.github.io Hotels.xsd">
             <State>NY</State>
             <Zip>10036</Zip>
             <NearstAirport>LaGuardia</NearstAirport>
+        </Address>
     </Hotel>
     <Hotel>
         <Name>The Venetian</Name>
