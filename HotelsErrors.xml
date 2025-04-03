@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <Hotel xmlns="https://nomukev.github.io/Hotels.xsd"
 xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="https://nomukev.github.io Hotels.xsd">
