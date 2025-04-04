@@ -73,7 +73,6 @@ xsi:schemaLocation="https://nomukev.github.io Hotels.xsd">
             <City>Kanab</City>
             <State>UT</State>
             <Zip>84741</Zip>
-        </Address>
         <Rating>4.3</Rating>
     </Hotel>
     <Hotel>
